@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xmlns, es el namespace que hara unico a este XML.
+	xsi:schemaLocation, vinculamos el XML con XSD -->
+<GetCourseDetailsRequest xmlns="http://gn.com/courses" 
+xsi:schemaLocation="http://gn.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id>
+</GetCourseDetailsRequest>
